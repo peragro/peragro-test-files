@@ -1,0 +1,6 @@
+[Peragro]
+peragro-test-files/text/plain/test.txt
+Name = test file
+Mimetype = "text/plain"
+Charset = us-ascii
+Lines = 6
